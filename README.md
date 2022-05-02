@@ -53,12 +53,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-[![Dayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dayo-Adewuyi)](https://github.com/Dayo-Adewuyi/github-readme-stats)
-
-![Dayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dayo-Adewuyi&count_private=true)
-
-
-![Dayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dayo-Adewuyi&show_icons=true&theme=radical)
+![Dayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dayo-Adewuyi&count_private=true&show_icons=true&theme=radical)
 
   <Br>
 <hr>
